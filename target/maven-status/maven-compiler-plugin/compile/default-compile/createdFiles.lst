@@ -1,0 +1,16 @@
+com\grupoocho\gestor_deudas\model\Usuario.class
+com\grupoocho\gestor_deudas\repository\LetraRepository.class
+com\grupoocho\gestor_deudas\service\CronogramaService.class
+com\grupoocho\gestor_deudas\model\Cronograma.class
+com\grupoocho\gestor_deudas\GestorDeudasApplication.class
+com\grupoocho\gestor_deudas\repository\CronogramaRepository.class
+com\grupoocho\gestor_deudas\controller\UsuarioController.class
+com\grupoocho\gestor_deudas\controller\CronogramaController.class
+com\grupoocho\gestor_deudas\repository\DeudaRepository.class
+com\grupoocho\gestor_deudas\service\DeudaService.class
+com\grupoocho\gestor_deudas\model\Deuda.class
+com\grupoocho\gestor_deudas\config\CronogramaDTO.class
+com\grupoocho\gestor_deudas\controller\DeudaController.class
+com\grupoocho\gestor_deudas\repository\UsuarioRepository.class
+com\grupoocho\gestor_deudas\service\UsuarioService.class
+com\grupoocho\gestor_deudas\model\Letra.class
